@@ -5,6 +5,8 @@ Starter project code for students taking Udacity ud120
 
 ### Setup
 - Create a virtual environment for Python 3.9 or higher.
+- Currently using Python3.8
+- Activate venv by `source /ml_ud120/bin/activate`
 - $ pip install -r requirements.txt
 
 ### Contribution Note
